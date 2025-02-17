@@ -19,7 +19,7 @@
 <img align="center" alt="Rike-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
 <img align="right" alt="Rike-gif" height="150" width="150" 
      src="https://cdn.discordapp.com/attachments/878494276747689994/1341126749978628210/rike.gif?ex=67b4dd1e&is=67b38b9e&hm=b80883d4daa9d3989493d62aaa6c29ee72e711ce56bb6f5752aa149e5c28929e&" 
-     style="margin-left: 10px; margin-top: -20px;" />
+     style="margin-left: 10px;/>
   
 </div>
   
