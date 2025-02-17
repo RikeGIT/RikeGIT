@@ -1,7 +1,7 @@
 ## Olá eu me chamo Rikelmy 🐱‍👤😉
 <br>
 
-é um prazer que você me conheça, tenho 20 anos e estou atualmente cursando Analise e Desenvolvimento de Sistemas
+para mim é um prazer que você me conheça, tenho 20 anos e estou atualmente cursando Analise e Desenvolvimento de Sistemas
 
 - Focado em aprender django e java 
 - Apaixonado por hardware e filosofia 🐱‍🚀
