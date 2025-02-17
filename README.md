@@ -10,10 +10,6 @@ a algum erro aqui?
 - 🌱 Estudando django e me aperfeiçoando em java ...
 - 😄 Pronomes: ele/dele
 
-- <img align="right" alt="Rike-gif" height="120" width="120" 
-       src="https://cdn.discordapp.com/attachments/878494276747689994/1341126749978628210/rike.gif?ex=67b4dd1e&is=67b38b9e&hm=b80883d4daa9d3989493d62aaa6c29ee72e711ce56bb6f5752aa149e5c28929e&" 
-       />
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rike-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Rike-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
