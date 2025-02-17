@@ -39,7 +39,6 @@ Oi, é um prazer que você me conheça, tenho 20 anos e estou atualmente cursand
   <a href="https://instagram.com/rike_rkkkk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rikecontatopessoal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
- 
 
 
  <picture>
@@ -50,4 +49,3 @@ Oi, é um prazer que você me conheça, tenho 20 anos e estou atualmente cursand
   
 </div>
 <br><br><br><br>
-ㅤWelcome! 😄 <!-- <a href="https://xxx/aj_aecio" >My website</a> --> <!--Link para portfolio-->
