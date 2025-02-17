@@ -1,7 +1,10 @@
 ## Olá eu me chamo Rikelmy Sousa 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RikeGIT&show_icons=true&theme=radical)](https://github.com/RikeGIT/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RikeGIT&show_icons=true&theme=radical)](https://github.com/RikeGIT/github-readme-stats)
+<div>
+  <a href="github.com/RikeGIT">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RikeGIT&show_icons=true&theme=radical)](https://github.com/RikeGIT/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RikeGIT&show_icons=true&theme=radical)](https://github.com/RikeGIT/github-readme-stats)
+</div>
 
 
 - 🔭 Em busca da minha primeira vaga ...
