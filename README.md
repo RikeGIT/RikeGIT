@@ -17,7 +17,7 @@
 <img align="center" alt="Rike-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="center" alt="Rike-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 <img align="center" alt="Rike-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-<img align="rigth" alt="Rike-gif" src="https://discord.com/channels/@me/878494276747689994/1341126750545117315" />
+<img align="rigth" alt="Rike-gif" src="https://cdn.discordapp.com/attachments/878494276747689994/1341126749978628210/rike.gif?ex=67b4dd1e&is=67b38b9e&hm=b80883d4daa9d3989493d62aaa6c29ee72e711ce56bb6f5752aa149e5c28929e&" />
 </div>
 
 ##
