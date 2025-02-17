@@ -1,4 +1,3 @@
-a algum erro aqui? 
 ## Olá eu me chamo Rikelmy Sousa 👋
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RikeGIT&show_icons=true&theme=radical)](https://github.com/RikeGit/github-readme-stats)
@@ -25,12 +24,11 @@ a algum erro aqui?
   <a href="https://instagram.com/rike_rkkkk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rikecontatopessoal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rikelmy-sousa-5b9b68311/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  <picture>
+</div>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/RikeGIT/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/RikeGIT/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/RikeGIT/output/github-contribution-grid-snake.svg">
 </picture>
-</div>
 
 
