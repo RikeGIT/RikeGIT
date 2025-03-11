@@ -1,4 +1,4 @@
-## Olá eu me chamo Rikelmy 🐱‍👤😉
+## Olá eu me chamo Rikelmy 🐱‍👤
 <br>
 
 para mim é um prazer que você me conheça, tenho 20 anos e estou atualmente cursando Analise e Desenvolvimento de Sistemas
