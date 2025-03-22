@@ -3,7 +3,7 @@
 
 para mim é um prazer que você me conheça, tenho 20 anos e estou atualmente cursando Analise e Desenvolvimento de Sistemas
 
-- Focado em aprender django e java 
+- Atualmente focado em aprender sobre desenvolvimento front-end
 - Apaixonado por hardware e filosofia 🐱‍🚀
 
 ##
