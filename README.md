@@ -1,14 +1,3 @@
-## Olá eu me chamo Rikelmy 🐱‍👤
-<br>
-
-para mim é um prazer que você me conheça, tenho 20 anos e sou apaixonado por todo tipo de tecnologia.
-
-- Atualmente focado em aprender sobre desenvolvimento front-end
-- Apaixonado por hardware e filosofia 🐱‍🚀
-
-##
-
-
 <!--github status-->
 <div align="center" style="display: inline">
    <a href="https://github.com/RikeGIT">
