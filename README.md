@@ -1,31 +1,15 @@
-<!--github status-->
-<div align="center" style="display: inline">
-   <a href="https://github.com/RikeGIT">
-   <div style="display: inline_block">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RikeGIT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d1c89a&icon_color=5aa2c9"/>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RikeGIT&layout=compact&langs_count=7&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d5e5e4&icon_color=5aa2c9"/>
-   </div>
-</div>
- 
-  
- <!--Top inguagens-->
+  <!--Top inguagens-->
 <div style="display: inline_block"><br>
   <img align="center" alt="AJ-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="AJ-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="AJ-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="AJ-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="AJ-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="AJ-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
    <!--Imagem EU--
   <img align="right" alt="AJ-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">-->
 </div>
   
-<br>Olá eu me chamo Rikelmy 🐱‍👤<br>
-
-<p>para mim é um prazer que você me conheça, tenho 20 anos e estou atualmente cursando Analise e Desenvolvimento de Sistemas
-
-Atualmente focado em aprender sobre desenvolvimento front-end
-Apaixonado por hardware e filosofia 🐱‍🚀<p>
+  ##
   
 <!--Redes Sociais-->
 <div>
