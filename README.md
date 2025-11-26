@@ -20,7 +20,12 @@
   <img align="right" alt="AJ-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">-->
 </div>
   
-  ##
+<br>Olá eu me chamo Rikelmy 🐱‍👤<br>
+
+<p>para mim é um prazer que você me conheça, tenho 20 anos e estou atualmente cursando Analise e Desenvolvimento de Sistemas
+
+Atualmente focado em aprender sobre desenvolvimento front-end
+Apaixonado por hardware e filosofia 🐱‍🚀<p>
   
 <!--Redes Sociais-->
 <div>
